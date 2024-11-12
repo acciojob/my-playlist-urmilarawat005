@@ -22,19 +22,13 @@ ul {
 }
 
 p {
-	margin: 20px;
+	
 	text-align:left;
 }
-audio {
-	width:95%;
-	margin:2px;
-}
-video {
-	width:90%;
-	
-	padding-top:5%
-	
-	
+.player_one, .player_two {
+  background-color: rgb(255, 255, 255);
+  padding: 10px;
+  border-radius: 5px;
 }
 li {
 	list-style-type: none;
