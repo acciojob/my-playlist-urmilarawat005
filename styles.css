@@ -7,26 +7,20 @@ h1, h2 {
 ul {
 	border:2px solid black;
 	background-color:white;
-	border-radius:12px;
+	border-radius:8px;
 	padding:20px;
 }
 .v {
 	background-color:white;
 	margin:30px;
 	border:2px solid black;
-	border-radius:12px;
+	border-radius:8px;
 	text-align:center;
 	
 	
 	
 }
-video {
-	width:90%;
-	
-	padding-top:5%
-	
-	
-}
+
 p {
 	margin: 20px;
 	text-align:left;
@@ -34,6 +28,13 @@ p {
 audio {
 	width:95%;
 	margin:2px;
+}
+video {
+	width:90%;
+	
+	padding-top:5%
+	
+	
 }
 li {
 	list-style-type: none;
