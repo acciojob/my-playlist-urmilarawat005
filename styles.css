@@ -15,21 +15,30 @@ ul {
 	margin:30px;
 	border:2px solid black;
 	border-radius:12px;
-	/* padding:18px  */
+	text-align:center;
+	
+	
 	
 }
 video {
-	width:100%;
-	padding:8px ;
+	width:90%;
+	/* padding: ; */
+	padding-top:5%
+	
 	
 }
 p {
 	margin: 20px;
+	text-align:left;
 }
 audio {
-	width:459px;
+	width:95%;
 	margin:2px;
 }
 li {
 	list-style-type: none;
+}
+a{
+	text-decoration-line: none;
+	color:black;
 }
